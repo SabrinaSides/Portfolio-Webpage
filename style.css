@@ -1,0 +1,119 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #D9E5D6;
+  margin: 0;
+}
+
+.darkbackground-color{
+  background-color: #0FA3B1;
+}
+
+.center {
+  display: block;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border-radius: 50%;
+}
+
+header h1{
+	font-family: 'Quattrocento Sans', sans-serif, 'Courier New', Courier, monospace;
+  color: rgb(66, 64, 64);
+	font-size: 50px;
+	padding-top: 35px;
+	margin: 0;
+  text-align: center;
+}
+
+
+header h2{
+  font-family: 'Quattrocento Sans', sans-serif, 'Courier New', Courier, monospace;
+  color: rgb(66, 64, 64);
+	font-size: 25px;
+	padding-top: 0px;
+  padding-bottom: 20px;
+	margin: 0;
+  text-align: center;
+}
+
+h3{
+  color: green;
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Quattrocento Sans', sans-serif, 'Courier New', Courier, monospace;
+}
+
+p {
+  color: rgb(88, 84, 84);
+  font-family: 'Quattrocento Sans', sans-serif, 'Courier New', Courier, monospace;
+  text-align: center;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul{
+  color: rgb(88, 84, 84);
+  font-family: 'Quattrocento Sans', sans-serif, 'Courier New', Courier, monospace;
+  text-align: justified;
+  width: 60%;
+  margin-left: 35%;
+  margin-right: auto;
+}
+
+ol{
+   color: rgb(88, 84, 84);
+  font-family: 'Quattrocento Sans', sans-serif, 'Courier New', Courier, monospace;
+  text-align: justified;
+  width: 60%;
+  margin-left: 45%;
+  margin-right: auto;
+}
+
+hr {
+  border-top: 1px solid #0FA3B1;
+  width: 50%;
+}
+
+.mtbimage{
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  height: 250px;
+  border: 1px solid green;
+}
+
+
+.links{
+  text-align: left;
+  font-family: 'Quattrocento Sans', sans-serif, 'Courier New', Courier, monospace;
+}
+
+footer{
+  font-family: 'Quattrocento Sans', sans-serif, 'Courier New', Courier, monospace;
+  color: rgb(66, 64, 64);
+	font-size: 15px;
+	padding-top: 10px;
+	margin: 0;
+  text-align: left;
+}
+
+a:link{
+  color: rgb(66, 64, 64);
+}
+a:visited{
+  color: #0FA3B1;
+}
+a:hover{
+  color: green;
+}
+a:active{
+  color: #FF9B42;
+}
